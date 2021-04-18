@@ -1,0 +1,37 @@
+.required{
+   color:red;
+}
+
+#description{
+   width: 70%;
+   height: 100%;
+}
+
+.latitudeError{
+   color:#ff0000;
+}
+
+.longitudeError{
+   color:#ff0000;
+}
+
+#name{
+
+   width: 70%;
+   height: 100%;
+}
+
+#email{
+   width: 70%;
+   height: 100%;
+}
+
+#speciesGuess{
+   height: 100%;
+}
+
+
+
+/**
+* Styles for the add-observation.html page 
+*/
